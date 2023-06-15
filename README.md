@@ -79,13 +79,13 @@ This repository is part of Machine Learning Process. This repository will furthe
 
 ### Process Flow
 
-- [![System Graph][proc-flow-cleaning]]()
-  The GraphQL service contains public service and private service. In this service, we are using the word `resolver` in terms of endpoint. Mainly, the public API consists of 
-```python
+[![System Graph][system-screenshot]]()
+The GraphQL service contains public service and private service. In this service, we are using the word `resolver` in terms of endpoint. Mainly, the public API consists of 
+```js
 loginUser()
 ```
 for user login system and 
-```python
+```js
 createUser()
 ```
 for creating user or user registration
@@ -242,8 +242,7 @@ Project Link: [https://github.com/baksara-id/graphql-api](https://github.com/bak
 [linkedin-url]: https://www.linkedin.com/in/glenn-steven-santoso-5a6934220/
 [linkedin-url-2]: https://www.linkedin.com/in/okyan-awang-ramadhana/
 [product-screenshot]: images/dataset_sample.jpeg
-[proc-flow-cleaning] : images/flow_preprocess.png
-[system-screenshot]: images/system.png
+[system-screenshot]: images/flow_preprocess.png
 [cicd-screenshot]: images/cicd.png
 [db-screenshot]: images/db.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
