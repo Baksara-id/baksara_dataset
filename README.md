@@ -77,15 +77,15 @@
 [![Product Name Screen Shot][product-screenshot]]()
 This repository is part of Machine Learning Process. This repository will further become the main data to be used in training the model. This repository provides processed data that we have cleaned.
 
-### System Graph and Flow
+### Process Flow
 
-[![System Graph][system-screenshot]]()
-The GraphQL service contains public service and private service. In this service, we are using the word `resolver` in terms of endpoint. Mainly, the public API consists of 
-```js
+- [![System Graph][proc-flow-cleaning]]()
+  The GraphQL service contains public service and private service. In this service, we are using the word `resolver` in terms of endpoint. Mainly, the public API consists of 
+```python
 loginUser()
 ```
 for user login system and 
-```js
+```python
 createUser()
 ```
 for creating user or user registration
@@ -242,6 +242,7 @@ Project Link: [https://github.com/baksara-id/graphql-api](https://github.com/bak
 [linkedin-url]: https://www.linkedin.com/in/glenn-steven-santoso-5a6934220/
 [linkedin-url-2]: https://www.linkedin.com/in/okyan-awang-ramadhana/
 [product-screenshot]: images/dataset_sample.jpeg
+[proc-flow-cleaning] : images/flow_preprocess.png
 [system-screenshot]: images/system.png
 [cicd-screenshot]: images/cicd.png
 [db-screenshot]: images/db.png
