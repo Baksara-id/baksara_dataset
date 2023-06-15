@@ -80,9 +80,10 @@ This repository is part of Machine Learning Process. This repository will furthe
 ### Process Flow
 
 [![System Graph][system-screenshot]]()
-The picture above is the process that we work on. This repository phase is from the beginning until `train/dev/test split`.
+The picture above is the process that we work on. This repository phase is from the beginning `gathering dataset` until `train/dev/test split`.
+<br/>
+- Gathering Dataset : We are collecting the dataset from <strong><a href="https://www.kaggle.com/datasets/phiard/aksara-jawa">kaggle</a></strong> and make a form using <strong><a href="https://www.jotform.com/">Jotform</a></strong>
 
-for creating user or user registration
 ### CI/CD Environment
 
 [![System Graph][cicd-screenshot]]()
