@@ -80,14 +80,8 @@ This repository is part of Machine Learning Process. This repository will furthe
 ### Process Flow
 
 [![System Graph][system-screenshot]]()
-The GraphQL service contains public service and private service. In this service, we are using the word `resolver` in terms of endpoint. Mainly, the public API consists of 
-```js
-loginUser()
-```
-for user login system and 
-```js
-createUser()
-```
+The picture above is the process that we work on. This repository phase is from the beginning until `train/dev/test split`.
+
 for creating user or user registration
 ### CI/CD Environment
 
