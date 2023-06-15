@@ -83,6 +83,10 @@ This repository is part of Machine Learning Process. This repository will furthe
 The picture above is the process that we work on. This repository phase is from the beginning `gathering dataset` until `train/dev/test split`.
 <br/>
 - Gathering Dataset : We are collecting the dataset from <strong><a href="https://www.kaggle.com/datasets/phiard/aksara-jawa">kaggle</a></strong> and make a form using <strong><a href="https://www.jotform.com/">Jotform</a></strong>
+- Extract Data from Jotform : After the Jotform already filled, we grant the data by using python to automate the process
+- Image Cleaning : We are using the openCV and pillow to clean the image. We are doing grayscaling, binarization, edge detection, and resize the data into the supposed size.
+- Data Augmentation : After clean the data, we are performing augmentation on the image. Rotating and scaling the image inside a canvas with size based on the input.
+- Train/Dev/Test/ split : We are splitting the dataset to be used in Training phase.
 
 ### CI/CD Environment
 
