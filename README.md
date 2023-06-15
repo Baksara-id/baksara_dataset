@@ -72,10 +72,10 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-### Product Demo
+### Project Summary
 
 [![Product Name Screen Shot][product-screenshot]]()
-This back-repository is a back-end service repository for Baksara. It provides the necessary functionality and logic to support the front-end of Baksara application. THis back-end service is responsible for handling tasks such as data storage, processing, and retrieval, as well as providing APIs for the front-end to interact with.
+This repository is part of Machine Learning Process. This repository will further become the main data to be used in training the model. This repository provides processed data that we have cleaned.
 
 ### System Graph and Flow
 
