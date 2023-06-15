@@ -92,8 +92,8 @@ The picture above is the process that we work on. This repository phase is from 
 
 ## Contact
 
-- Glenn Steven Santoso - [LinkedIn][linkedin-url] - achmad.riskynanda01@gmail.com
-- Okyan Awang Ramdhana - [LinkedIn][linkedin-url-2] - theofilusarifin@gmail.com
+- Achmad Nashruddin Riskynanda - [LinkedIn][linkedin-url] - achmad.riskynanda01@gmail.com
+- Theofilus Arifin - [LinkedIn][linkedin-url-2] - theofilusarifin@gmail.com
 
 Project Link: [Click Here !](https://github.com/baksara-id/baksara_dataset)
 
