@@ -25,8 +25,8 @@
 <!-- # Welcome -->
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Glenn's LinkedIn][linkedin-shield]][linkedin-url]
-[![Okyan's LinkedIn][linkedin-shield]][linkedin-url-2]
+[![Achmad's LinkedIn][linkedin-shield]][linkedin-url]
+[![Arifin's LinkedIn][linkedin-shield]][linkedin-url-2]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -88,129 +88,12 @@ The picture above is the process that we work on. This repository phase is from 
 - Data Augmentation : After clean the data, we are performing augmentation on the image. Rotating and scaling the image inside a canvas with size based on the input.
 - Train/Dev/Test/ split : We are splitting the dataset to be used in Training phase.
 
-### CI/CD Environment
-
-[![System Graph][cicd-screenshot]]()
-For the CI/CD Environment, we use Cloud Build with push trigger. When a revision / update to the code is pushed, the diagram as shown above will run the process of revision. Below are the services we use from Google Cloud Platform to develop CI/CD pipeline :
-<ol>
-    <li>
-      Artifact Registry : To create the image on GCP registry
-    </li>
-    <li>
-      Cloud Run : To run the application
-    </li>
-</ol>
-
-### Database Design
-
-[![Database Design][db-screenshot]]()
-Above is the design of the database in our system.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-- [![ApolloGraphQL][ApolloGraphQL.com]][ApolloGraphQL-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-<br />
-<div align="center">
-  <img src="images/npm.png" alt="Logo" width="160" height="80">
-</div>
-
-Getting started, do follow the steps below thoroughly and carefully. Make sure all the prerequisities and installations are done correctly according to
-
-### Prerequisites
-
-Before getting started, make sure that NPM is already up to date.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_This is how you should clone and setup the API service on localhost. Do follow these steps carefully_ 
-2. Clone the repo
-
-```sh
-git clone https://github.com/baksara-id/graphql-api.git
-```
-
-3. Install NPM packages
-```sh
-npm install
-```
-4. Inside the development and or test and or deployment in 
-```js
-    const config
-``` 
-  `index.js`, replace all information given according to your credential
-   ```json
-   "development": {
-        "username": "DB_USERNAME", //usually root
-        "password": "DB_PASSWORD", //usually ''
-        "database": "DB_NAME", //fill accordingly
-        "dialect": "DB_DIALETCT", //usually mysql
-        "host": "DB_HOST", //usually 127.0.0.1
-    }
-   ```
-5. Start your web server service
-
-6. Make sure to import sql file to your database
-
-7. Run the GraphQL with the command below :
-* If you want to run the server in development mode :
-```sh
-   npm run dev
-```
-*If you want to run the server in production mode :
-```sh
-   npm run start
-```
-8. Open the link given at the terminal, and it should look like this :
-```sh
-   🚀 Server ready at http://localhost:4000
-```
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Usage
-
-API is used for Baksara Application front-end, showing the user's data and showed real-time
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [x] User CRUD Operation
-- [x] User Authentication
-- [ ] Middleware
-  - [x] User Middleware
-  - [ ] Admin middleware
-
-See the [open issues](https://github.com/baksara-id/graphql-api/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-- Glenn Steven Santoso - [LinkedIn][linkedin-url] - glennstevensantoso@gmail.com
-- Okyan Awang Ramdhana - [LinkedIn][linkedin-url-2] - okyanawang@gmail.com
+- Glenn Steven Santoso - [LinkedIn][linkedin-url] - achmad.riskynanda01@gmail.com
+- Okyan Awang Ramdhana - [LinkedIn][linkedin-url-2] - theofilusarifin@gmail.com
 
 Project Link: [https://github.com/baksara-id/graphql-api](https://github.com/baksara-id/graphql-api)
 
@@ -238,8 +121,8 @@ Project Link: [https://github.com/baksara-id/graphql-api](https://github.com/bak
 [license-shield]: https://img.shields.io/github/license/baksara-id/graphql-api.svg?style=for-the-badge
 [license-url]: https://github.com/baksara-id/graphql-api/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/glenn-steven-santoso-5a6934220/
-[linkedin-url-2]: https://www.linkedin.com/in/okyan-awang-ramadhana/
+[linkedin-url]: https://www.linkedin.com/in/achmadnr9/
+[linkedin-url-2]: https://www.linkedin.com/in/theofilusarifin/
 [product-screenshot]: images/dataset_sample.jpeg
 [system-screenshot]: images/flow_preprocess.png
 [cicd-screenshot]: images/cicd.png
