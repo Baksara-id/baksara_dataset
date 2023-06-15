@@ -46,9 +46,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/baksara-id/graphql-api/issues">Report Bug</a>
+    <a href="https://github.com/baksara-id/baksara_dataset/issues">Report Bug</a>
     ·
-    <a href="https://github.com/baksara-id/graphql-api/issues">Request Feature</a>
+    <a href="https://github.com/baksara-id/baksara_dataset/issues">Request Feature</a>
   </p>
 </div>
 
@@ -241,7 +241,7 @@ Project Link: [https://github.com/baksara-id/graphql-api](https://github.com/bak
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/glenn-steven-santoso-5a6934220/
 [linkedin-url-2]: https://www.linkedin.com/in/okyan-awang-ramadhana/
-[product-screenshot]: images/preview.png
+[product-screenshot]: images/dataset_sample.jpeg
 [system-screenshot]: images/system.png
 [cicd-screenshot]: images/cicd.png
 [db-screenshot]: images/db.png
