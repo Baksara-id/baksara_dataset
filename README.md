@@ -33,16 +33,16 @@
 <div align="center">
 
  <a href="https://github.com/baksara-id/graphql-api">
-    <img src="images/graphql.png" alt="Logo" width="80" height="80">
-    <img src="images/apollo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo_opencv.svg" alt="Logo" width="80" height="80">
+    <img src="images/logo_pillow.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">GraphQL API</h3>
+  <h3 align="center">Data Pre-Processing</h3>
 
   <p align="center">
-    Back-end implementation for our system
+    Data Pre-Processing
     <br />
-    <a href="https://github.com/baksara-id/graphql-api"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/baksara-id/baksara_dataset"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
